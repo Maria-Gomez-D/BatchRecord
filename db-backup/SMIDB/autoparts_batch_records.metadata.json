@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"28c65db743834c88aec4036f9f6da7bb","collectionName":"autoparts_batch_records","type":"collection"}
